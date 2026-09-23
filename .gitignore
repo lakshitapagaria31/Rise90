@@ -1,0 +1,26 @@
+# Compiled binaries and object files
+*.exe
+*.out
+*.app
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+
+# Build and debugger output
+build/
+bin/
+out/
+debug/
+release/
+.vs/
+
+# GCC precompiled headers
+*.gch
+
+# VS Code local history
+.history/
+
+# VS Code workspace settings
+.vscode/
