@@ -16,3 +16,5 @@ class Solution {
     
         }
     };
+
+// best case tc -> O(N) when array is sorted because the while loop will never get executed only for loop will run for N times.
